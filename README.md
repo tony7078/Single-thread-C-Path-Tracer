@@ -1,10 +1,11 @@
 # Single-thread-C-Path-Tracer
 Single-thread C++ Path Tracer
 -------------------
-    - `src/` --
-    Contains the source.
-    - `result/` --
-    Contains the rendered images.
+"src/"
+Contains the source.
+
+"result/"
+Contains the rendered images.
 
 Reference
 -------------------
